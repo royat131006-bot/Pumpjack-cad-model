@@ -1,4 +1,4 @@
-# Pumpjack CAD Model
+# Oil Rig CAD Model
 
 An Autodesk Inventor modelling exercise showing a pumpjack assembly on a base.
 
